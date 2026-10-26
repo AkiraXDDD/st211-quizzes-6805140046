@@ -1,0 +1,6 @@
+[
+    {"Input":"hello","Expected":"HELLO"},
+    {"Input":"world","Expected":"WORLD"},
+    {"Input":"pytest","Expected":"PYTEST"},
+    {"Input":"123abc","Expected":"123ABC"}
+]
